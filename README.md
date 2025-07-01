@@ -5,7 +5,7 @@ This repository showcases an AI agent I developed using n8n, a visual workflow a
 # What This Agent Does
 This AI agent is essentially a refined search assistant. Here's the problem it solves:
 
-Traditional Google searches — even with the newer AI enhancements, tend to return long lists of links or fragmented pieces of information. Similarly, searching with tools like ChatGPT alone can lead to vague or insufficient responses when the LLM doesn’t have up-to-date knowledge.
+Traditional Google searches, even with the newer AI enhancements, tend to return long lists of links or fragmented pieces of information. Similarly, searching with tools like ChatGPT alone can lead to vague or insufficient responses when the LLM doesn’t have up-to-date knowledge.
 
 This AI agent intelligently combines:
 
@@ -13,7 +13,7 @@ GPT-4o-mini for direct question-answering
 
 Google Search (via SerpAPI) when real-time or external data is needed
 
-The result? Clear, concise, and informative answers — without overwhelming the user or leaving out critical context.
+The result? Clear, concise, and informative answers, without overwhelming the user or leaving out critical context.
 
 # How the Workflow Works
 Here’s a breakdown of how the agent functions (visualized in Workflow.jpg):
@@ -37,6 +37,6 @@ To test the AI agent, I asked:
 
 "What are the recent news on Iran-Israel conflict? Give me everything very briefly."
 
-The output — a well-organized, informative summary — is shown in sample_output.jpg.
+The output — a well-organized, informative summary, is shown in sample_output.jpg.
 
 You can also watch the full demo and automation flow in demo_n8n_ai_search_agent.mp4.
